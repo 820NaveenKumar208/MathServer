@@ -133,12 +133,12 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
-![alt text](<NG/Screenshot (95).png>)
+![alt text](<NG/Screenshot (96).png>)
 
 ## HOMEPAGE:
 
-![alt text](<NG/Screenshot (96).png>)
 
+![alt text](<NG/Screenshot (95).png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
