@@ -133,7 +133,7 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
-![alt text](<NG/Screenshot (96).png>)
+![alt text](<NG/Screenshot (99).png>)
 
 ## HOMEPAGE:
 
