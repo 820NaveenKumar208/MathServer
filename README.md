@@ -138,7 +138,7 @@ urlpatterns = [
 ## HOMEPAGE:
 
 
-![alt text](<NG/Screenshot (95).png>)
+![alt text](<NG/Screenshot (100).png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
